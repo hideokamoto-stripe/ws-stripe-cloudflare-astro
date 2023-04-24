@@ -1,4 +1,10 @@
-# Astro Starter Kit: Basics
+# Cloudflare / Stripe / Astroワークショップ
+
+これは、Cloudflare Pages, Stripe, Astroを利用したサブスクリプション申し込みページ開発ワークショップ用のリポジトリです。
+
+事前にローカルにダウンロードして、`npm install`を実行することで、ワークショップイベントで「ライブラリインストール」にかかる待機時間を解消できます。
+
+# [Appendix] Astro Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template basics
